@@ -1,5 +1,13 @@
+Overall:
+
 -RPG Medieval/Fantasy
 -You are hired to find out who killed the king.
 -Villain is a warlock that kills his father (the king) and usurp his throne, but no one knows.
 -The warlock helps you in your quest to discover who murdered his father, but with false leads.
 -You need to kill the warlock.
+
+State One:
+
+-You are making your way out of the castle where the king died and find a piece of ripped cloth lying on the stair step. (pick or not?)
+(PICK) -> You will keep in your pocket to investigate later.
+(NOT) -> Just look and walk out the castle.
