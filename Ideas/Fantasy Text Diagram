@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T17:36:59.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 Edg/84.0.522.44" etag="7bJy8XMjsAy7-jqsKSb7" version="13.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-28T17:37:54.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 Edg/84.0.522.44" etag="CXjKuogq2Y2u1TDkCfZq" version="13.5.4" type="github">
   <diagram id="0y9TWmOtFQf__XvBq711" name="Page-1">
-    <mxGraphModel dx="2903" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2557" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,17 +37,11 @@
         <mxCell id="zReco0U_SznZ6uYMro9F-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zReco0U_SznZ6uYMro9F-13" target="zReco0U_SznZ6uYMro9F-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zReco0U_SznZ6uYMro9F-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zReco0U_SznZ6uYMro9F-13" target="zReco0U_SznZ6uYMro9F-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zReco0U_SznZ6uYMro9F-13" value="&lt;h1&gt;A1GP2. A Morte do Rei&lt;/h1&gt;&lt;div&gt;Você estava cortando lenha em sua casa quando...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Guerreiro, temos um comunicado à você, a rainha solicita sua visita imediatamente!&quot;, disse um dos guardas com armadura reluzente e vermelha.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Você:&amp;nbsp;&lt;/div&gt;&lt;div&gt;a) Ah, é mesmo? E como eu poderia ajudar&lt;span&gt;?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;b) Vão se foder, não veem que estou ocupado?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="20" y="395" width="340" height="190" as="geometry" />
+        <mxCell id="zReco0U_SznZ6uYMro9F-13" value="&lt;h1&gt;A1GP2. A Morte do Rei&lt;/h1&gt;&lt;div&gt;Você estava cortando lenha em sua casa quando...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Guerreiro, temos um comunicado à você, a rainha solicita sua visita imediatamente!&quot;, disse um dos guardas com armadura reluzente e vermelha.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Você:&amp;nbsp;&lt;/div&gt;&lt;div&gt;a) E como eu poderia ajudar&lt;span&gt;?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="395" width="340" height="185" as="geometry" />
         </mxCell>
         <mxCell id="zReco0U_SznZ6uYMro9F-14" value="&lt;h1&gt;A1GP3. A Morte do Rei&lt;/h1&gt;&lt;div&gt;&quot;Ela não nos informou, só disse que precisava de sua ajuda... urgente!&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vocês então partem, com um pouco de pressa.&lt;/div&gt;&lt;div&gt;Ao chegar lá, você se depara com um castelo enorme porém antigo, com algumas colunas destruídas. A escadaria em forma de caracol o cansa e o deixa ansioso ao mesmo tempo.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Você chega na sala do trono, onde a rainha está te esperando um pouco apreensiva.&lt;/div&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-440" y="540" width="333" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="zReco0U_SznZ6uYMro9F-18" value="&lt;h1&gt;A1GP3. A Morte do Rei&lt;/h1&gt;&lt;div&gt;&quot;Você não está entendendo, ela não pediu, isso é uma ordem!&quot;, então o soldado colocou a mão na empunhadura da espada, como se fosse tira-la.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Você:&lt;/div&gt;&lt;div&gt;a) Não precisamos de violência, tem crianças nesse vilarejo, eu vou com vocês.&lt;/div&gt;&lt;div&gt;b) É melhor não fazer isso, ou vai acabar morrendo.&lt;/div&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="730" width="440" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
