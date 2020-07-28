@@ -23,11 +23,12 @@ public class FantasyText : MonoBehaviour {
 
     private void ManageState() {
         var nextState = state.GetNextState();
-        if (Input.GetKeyDown(KeyCode.Alpha1)) {
-            state = nextState[0];
-        } else if (Input.GetKeyDown(KeyCode.Alpha2)) {
-            state = nextState[1];
-        } else if (Input.GetKeyDown(KeyCode.Q)) {
+        for (int i = 0; i < nextState.Length; i++) {
+            if (Input.GetKeyDown(KeyCode.Alpha1 + i)) {
+                state = nextState[i];
+            }
+        }
+        if (Input.GetKeyDown(KeyCode.Q)) {
             state = startingState;
         }
         textComponent.text = state.GetStateStory();
