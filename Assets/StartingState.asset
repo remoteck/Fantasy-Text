@@ -28,9 +28,9 @@ MonoBehaviour:
     floor...
 
 
-    a) Pick up.
+    1) Pick up.
 
-    b) Walk away.'
+    2) Walk away.'
   nextState:
   - {fileID: 11400000, guid: 79fb981899ea9344c833f696a669db17, type: 2}
   - {fileID: 11400000, guid: b61a6889f289ec947b808404cfa22f50, type: 2}
