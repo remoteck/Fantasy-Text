@@ -1,19 +1,23 @@
 História:
 
+Pilot:
 -O rei foi morto por seu filho.
 -O rei tinha uma política anti-magia.
 -O filho era iniciante em magia.
--O filho queria provar que magia era importante, então foi até um "curandeiro" que era um necromante, em busca de uma poção que fizesse seu
-pai ficar amaldiçoado e morresse, para que ele pudesse mostrar que a magia poderia salvar seu pai.
--O necromante o solicitou ingredientes para o preparo da poção.
--O filho então preparou a poção e a colocou no vinho de seu pai.
--O rei em poucos dias ficou doente, e eventualmente morreu assim como o planejado.
--O filho então pegou o antigo pergaminho com escritas antigas que o necromante havia lhe dado que 
-continha um ritual para trazer de volta a vida.
--O filho performou o ritual, porém, quando o ritual acabou, o filho percebeu que seu pai havia ficado pálido e completamente sem vida.
--O rei havia morrido enfim.
--Antes que o filho pudesse pedir ajuda, a camareira de seu pai entrara no quarto, e vira aquela cena do ritual. Correu para avisar os guardas.
--O filho foi acusado de traição contra o reino, por ter assassinado seu pai com magia negra.
--Eventualmente descobrimos que o tal "curandeiro", ou melhor, necromante, era o filho mais velho do rei, no qual havia sido 
-banido do reino, por usar magia, e queria ver a ruína daquele reino.
+-O filho ia até a catedral e lia livros de poção e magia
+-Lá conheceu um mago curandeiro, no qual viraram amigos.
+-Foi então que contou seu desejo de que seu pai tivesse mais reconhecimento pela magia.
+-O mago então fez uma proposta para o garoto, de fazer uma poção que adoecesse seu pai e o menino pudesse cura-lo com magia.
+-O mago informou o menino onde encontrar os ingredientes da poção, e então o menino preparou a poção.
+-O menino colocou a poção no vinho do pai, e o rei adoeceu poucos dias depois como planejado.
+-O menino então convenceu o rei a deixa-lo performar magia para ir curando seu pai.
+-O rei melhorou, porém curiosamente morreu sem explicação.
+-O menino se culpou por achar que ele havia preparado a poção errado ou ter performado a magia de forma errada.
+-O menino foi preso por ser acusado de usar magia para matar seu pai.
+
+Part 2:
+-A rainha do seu reino que é rainha do reino onde você vive e é maga também, solicita sua ajuda para investigar o caso.
+-Ela acredita que o neto não é culpado, e que algo está estranho.
+-Eventualmente descobrimos que o tal mago, era o filho mais velho do rei, no qual havia sido
+banido do reino, por ter matado sua mãe sem intenção aos 7 anos com magia, e queria ver a ruína daquele reino.
 
