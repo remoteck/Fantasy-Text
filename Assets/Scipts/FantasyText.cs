@@ -27,8 +27,8 @@ public class FantasyText : MonoBehaviour {
             state = nextState[0];
         } else if (Input.GetKeyDown(KeyCode.Alpha2)) {
             state = nextState[1];
-        } else if (Input.GetKeyDown(KeyCode.Alpha3)) {
-            state = nextState[2];
+        } else if (Input.GetKeyDown(KeyCode.Q)) {
+            state = startingState;
         }
         textComponent.text = state.GetStateStory();
     }
