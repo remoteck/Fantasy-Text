@@ -17,5 +17,20 @@ MonoBehaviour:
     Stabbing? No one knows.
 
 
-    You briefly speak with the king''s son, and ask
-    him if he has seen '
+    You briefly speak with the king''s guard, and ask
+    him if he has seen anything, he denies.
+
+    The king''s son is in shock, can
+    barely speak.
+
+
+    You exit the room, and see a piece of cloth lying on the
+    floor...
+
+
+    a) Pick up.
+
+    b) Walk away.'
+  nextState:
+  - {fileID: 11400000, guid: 79fb981899ea9344c833f696a669db17, type: 2}
+  - {fileID: 11400000, guid: b61a6889f289ec947b808404cfa22f50, type: 2}
