@@ -1,13 +1,19 @@
-Overall:
+História:
 
--RPG Medieval/Fantasy
--You are hired to find out who killed the king.
--Villain is a warlock that kills his father (the king) and usurp his throne, but no one knows.
--The warlock helps you in your quest to discover who murdered his father, but with false leads.
--You need to kill the warlock.
+-O rei foi morto por seu filho.
+-O rei tinha uma política anti-magia.
+-O filho era iniciante em magia.
+-O filho queria provar que magia era importante, então foi até um "curandeiro" que era um necromante, em busca de uma poção que fizesse seu
+pai ficar amaldiçoado e morresse, para que ele pudesse mostrar que a magia poderia salvar seu pai.
+-O necromante o solicitou ingredientes para o preparo da poção.
+-O filho então preparou a poção e a colou no vinho de seu pai.
+-O rei em poucos dias ficou doente, e eventualmente morreu assim como o planejado.
+-O filho então pegou o antigo pergaminho com escritas antigas que o necromante havia lhe dado que 
+continha um ritual para trazer de volta a vida.
+-O filho performou o ritual, porém, quando o ritual acabou, o filho percebeu que seu pai havia ficado pálido e completamente sem vida.
+-O rei havia morrido enfim.
+-Antes que o filho pudesse pedir ajuda, a camareira de seu pai entrara no quarto, e vira aquela cena do ritual. Correu para avisar os guardas.
+-O filho foi acusado de traição contra o reino, por ter assassinado seu pai com magia negra.
+-Eventualmente descobrimos que o tal "curandeiro", ou melhor, necromante, era o filho mais velho do rei, no qual havia sido 
+banido do reino, por usar magia, e queria ver a ruína daquele reino.
 
-State One:
-
--You are making your way out of the castle where the king died and find a piece of ripped cloth lying on the stair step. (pick or not?)
-(PICK) -> You will keep in your pocket to investigate later.
-(NOT) -> Just look and walk out the castle.
